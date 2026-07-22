@@ -1,0 +1,28 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# LangChain
+langchain
+langchain-google-genai
+langchain-community
+langchain-chroma
+
+# Google Generative AI
+google-generativeai
+
+# Vector Database
+chromadb
+
+# Document Processing
+pypdf
+tiktoken
+beautifulsoup4
+
+# Utilities
+pydantic
+pydantic-settings
+httpx
+aiofiles

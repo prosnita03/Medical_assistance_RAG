@@ -1,0 +1,378 @@
+# Medical Textbook Excerpts — Clinical Guidelines and Procedures
+# Source: General Medical Education Reference (Educational Use Only)
+# Disclaimer: This material is for educational purposes. Always follow institution-specific protocols.
+
+=== VITAL SIGNS — NORMAL RANGES ===
+
+Blood Pressure:
+- Normal: Systolic < 120 mmHg AND Diastolic < 80 mmHg
+- Elevated: Systolic 120-129 mmHg AND Diastolic < 80 mmHg
+- Stage 1 Hypertension: Systolic 130-139 OR Diastolic 80-89 mmHg
+- Stage 2 Hypertension: Systolic ≥ 140 OR Diastolic ≥ 90 mmHg
+- Hypertensive Crisis: Systolic > 180 AND/OR Diastolic > 120 mmHg
+- Hypotension: Systolic < 90 mmHg
+
+Heart Rate:
+- Normal (adults): 60-100 beats per minute (bpm)
+- Bradycardia: < 60 bpm
+- Tachycardia: > 100 bpm
+- Athletic resting rate: May normally be 40-60 bpm
+
+Respiratory Rate:
+- Normal (adults): 12-20 breaths per minute
+- Bradypnea: < 12 breaths/minute
+- Tachypnea: > 20 breaths/minute
+
+Temperature:
+- Normal: 36.1-37.2°C (97-99°F) oral
+- Fever: ≥ 38.0°C (100.4°F)
+- Hyperthermia: > 40°C (104°F) — medical emergency
+- Hypothermia: < 35°C (95°F) — medical emergency
+
+Oxygen Saturation (SpO2):
+- Normal: 95-100%
+- Mild hypoxemia: 90-94%
+- Moderate hypoxemia: 85-89% — supplemental oxygen required
+- Severe hypoxemia: < 85% — medical emergency
+
+BMI (Body Mass Index = weight kg / height m²):
+- Underweight: < 18.5
+- Normal: 18.5-24.9
+- Overweight: 25.0-29.9
+- Obese Class I: 30.0-34.9
+- Obese Class II: 35.0-39.9
+- Obese Class III (Morbid): ≥ 40.0
+
+=== LABORATORY REFERENCE RANGES ===
+
+Complete Blood Count (CBC):
+- Hemoglobin: Male 13.5-17.5 g/dL; Female 12.0-15.5 g/dL
+- Hematocrit: Male 41-53%; Female 36-46%
+- White Blood Cells (WBC): 4,500-11,000 cells/μL
+  - Neutrophils: 50-70% (absolute: 1,800-7,700/μL)
+  - Lymphocytes: 20-40% (absolute: 1,000-4,800/μL)
+  - Monocytes: 2-8%
+  - Eosinophils: 1-4%
+  - Basophils: 0.5-1%
+- Platelets: 150,000-400,000/μL
+- MCV (Mean Corpuscular Volume): 80-100 fL
+- MCH: 27-33 pg
+- RBC: Male 4.5-5.5 million/μL; Female 4.0-5.0 million/μL
+
+Anemia Classification by MCV:
+- Microcytic (MCV < 80): Iron deficiency anemia, thalassemia, sideroblastic anemia, anemia of chronic disease
+- Normocytic (MCV 80-100): Acute blood loss, hemolytic anemia, anemia of chronic disease, aplastic anemia
+- Macrocytic (MCV > 100): Vitamin B12 deficiency, folate deficiency, alcohol, liver disease, hypothyroidism, medications (methotrexate, hydroxyurea)
+
+Basic Metabolic Panel (BMP):
+- Sodium (Na): 136-145 mEq/L
+- Potassium (K): 3.5-5.0 mEq/L
+- Chloride (Cl): 98-107 mEq/L
+- Bicarbonate (HCO3): 22-29 mEq/L
+- Blood Urea Nitrogen (BUN): 7-25 mg/dL
+- Creatinine: Male 0.7-1.3 mg/dL; Female 0.6-1.1 mg/dL
+- Glucose (fasting): 70-99 mg/dL
+- Calcium: 8.5-10.5 mg/dL
+
+Liver Function Tests (LFTs):
+- ALT (Alanine aminotransferase): 7-56 U/L
+- AST (Aspartate aminotransferase): 10-40 U/L
+- Alkaline Phosphatase (ALP): 44-147 U/L
+- Total Bilirubin: 0.2-1.2 mg/dL
+- Direct (Conjugated) Bilirubin: 0.0-0.3 mg/dL
+- Albumin: 3.5-5.0 g/dL
+- Total Protein: 6.3-8.2 g/dL
+
+Lipid Panel (fasting):
+- Total Cholesterol: Desirable < 200 mg/dL; Borderline 200-239; High ≥ 240
+- LDL Cholesterol: Optimal < 100 mg/dL; Near optimal 100-129; Borderline 130-159; High 160-189; Very high ≥ 190
+- HDL Cholesterol: Low (risk) < 40 (men), < 50 (women); High (protective) ≥ 60
+- Triglycerides: Normal < 150; Borderline 150-199; High 200-499; Very high ≥ 500
+
+Thyroid Function:
+- TSH (Thyroid Stimulating Hormone): 0.4-4.0 mIU/L
+- Free T4: 0.8-1.8 ng/dL
+- Free T3: 2.3-4.1 pg/mL
+
+Diabetes Markers:
+- Fasting glucose: Normal 70-99 mg/dL; Prediabetes 100-125; Diabetes ≥ 126
+- HbA1c: Normal < 5.7%; Prediabetes 5.7-6.4%; Diabetes ≥ 6.5%
+- Target HbA1c for diabetics: Generally < 7% (ADA guidelines)
+- 2-hour OGTT: Normal < 140 mg/dL; Prediabetes 140-199; Diabetes ≥ 200
+
+Coagulation Tests:
+- PT (Prothrombin Time): 11-13.5 seconds
+- INR (International Normalized Ratio): Normal 0.8-1.2; Therapeutic for warfarin (DVT/PE) 2.0-3.0; Therapeutic for mechanical heart valve 2.5-3.5
+- aPTT: 25-35 seconds
+- Fibrinogen: 200-400 mg/dL
+
+=== COMMON CLINICAL PRESENTATIONS ===
+
+CHEST PAIN — Differential Diagnosis Approach:
+Life-threatening causes to rule out first (RIPE mnemonic):
+- Rupture (aortic dissection): Sudden severe tearing/ripping chest pain radiating to back; BP difference between arms
+- Infarction (MI): Crushing/pressure, radiation to left arm/jaw, sweating, nausea; ST changes on ECG
+- Pneumothorax: Sudden sharp chest pain + dyspnea; absent breath sounds; may be tension pneumothorax
+- Embolism (pulmonary): Pleuritic chest pain + dyspnea + tachycardia; risk factors (immobility, surgery, DVT)
+
+Other causes:
+- Pericarditis: Sharp, positional (better leaning forward), pleuritic; friction rub on exam; diffuse ST elevation on ECG
+- Esophageal spasm: Severe squeezing pain, may respond to nitroglycerin
+- GERD/esophagitis: Burning, after meals, positional
+- Musculoskeletal: Reproducible with palpation or movement; costochondritis
+- Anxiety/panic attack: Associated with hyperventilation, palpitations, dizziness
+
+---
+
+SHORTNESS OF BREATH (Dyspnea) — Differential Diagnosis:
+Cardiac causes:
+- Acute decompensated heart failure: Orthopnea (worse lying down), PND (paroxysmal nocturnal dyspnea), bilateral crackles, edema, elevated JVP
+- Acute coronary syndrome: Associated chest pain, ST changes
+- Cardiac tamponade: Beck's triad (hypotension, JVD, muffled heart sounds)
+- Arrhythmias: Palpitations
+
+Pulmonary causes:
+- Pulmonary embolism: Sudden onset, pleuritic chest pain, risk factors for DVT
+- Pneumothorax: Sudden unilateral, decreased breath sounds
+- Pneumonia: Productive cough, fever, focal crackles, consolidation
+- Asthma: Wheezing, reversible with bronchodilators, triggers
+- COPD exacerbation: Known COPD, increased sputum, wheezing
+- Pulmonary fibrosis: Chronic progressive, bibasal crackles, clubbing
+
+Other:
+- Anemia: Gradual, pallor, fatigue
+- Sepsis: Fever, tachycardia, source of infection
+- Metabolic acidosis: Kussmaul breathing, underlying cause
+- Anxiety/panic: Hyperventilation, paresthesias, situational
+
+---
+
+ABDOMINAL PAIN — Location and Likely Causes:
+Right Upper Quadrant (RUQ):
+- Biliary colic, cholecystitis (Murphy's sign positive), cholangitis
+- Hepatitis, liver abscess
+- Peptic ulcer disease
+- Right lower lobe pneumonia (referred pain)
+
+Left Upper Quadrant (LUQ):
+- Splenomegaly, splenic rupture
+- Gastritis, peptic ulcer
+- Pancreatitis (may be epigastric)
+- Left lower lobe pneumonia
+
+Epigastric:
+- Peptic ulcer disease, GERD
+- Pancreatitis (radiates to back)
+- MI (inferior wall)
+- Aortic aneurysm
+
+Right Lower Quadrant (RLQ):
+- Appendicitis (McBurney's point, Rovsing's sign)
+- Ovarian cyst/torsion, ectopic pregnancy
+- Inguinal hernia
+- Mesenteric adenitis
+
+Left Lower Quadrant (LLQ):
+- Diverticulitis (most common in sigmoid colon)
+- Ovarian cyst/torsion, ectopic pregnancy
+- Inguinal hernia
+- Colon pathology
+
+Periumbilical:
+- Early appendicitis (migrates to RLQ)
+- Small bowel obstruction
+- Mesenteric ischemia
+
+Diffuse:
+- Peritonitis (rigidity, rebound tenderness)
+- IBD (Crohn's disease, ulcerative colitis)
+- IBS, constipation
+- Aortic aneurysm rupture
+
+=== PREVENTIVE MEDICINE AND SCREENING GUIDELINES ===
+
+Cancer Screening (USPSTF recommendations):
+- Colorectal Cancer: Colonoscopy every 10 years starting at 45 (or earlier with risk factors); alternatives: annual FIT, stool DNA every 1-3 years, CT colonography every 5 years
+- Breast Cancer: Mammography every 2 years for ages 50-74; discuss with women 40-49
+- Cervical Cancer: Pap smear every 3 years ages 21-65 (or Pap + HPV co-test every 5 years ages 30-65)
+- Lung Cancer: Annual low-dose CT scan for adults 50-80 years with 20 pack-year history who currently smoke or quit within past 15 years
+- Prostate Cancer: Discuss PSA testing with men aged 55-69; individual decision
+- Skin Cancer: Regular skin self-exams; annual dermatology visit for high-risk patients
+
+Cardiovascular Screening:
+- Blood pressure: Every 1-2 years if normal; annually if elevated
+- Lipids: Every 5 years starting at 20; more frequently with risk factors
+- Diabetes (HbA1c or fasting glucose): Every 3 years for adults 35-70 who are overweight/obese
+- AAA screening: One-time ultrasound for male smokers/ex-smokers aged 65-75
+
+Immunizations (Adult):
+- Influenza: Annually for all adults
+- Tdap/Td: Tdap once, then Td booster every 10 years
+- Pneumococcal (PCV20 or PPSV23): All adults ≥ 65; younger adults with risk factors
+- COVID-19: Per current CDC recommendations
+- Shingles (Zoster): Shingrix (recombinant) — 2 doses for adults ≥ 50
+- MMR: Two doses for non-immune adults
+- Varicella: Two doses for non-immune adults
+- HPV: Through age 26 (or through 45 for some individuals, shared decision-making)
+- Hepatitis B: All adults up to 60; shared decision for 60+
+- Hepatitis A: At-risk groups
+
+=== COMMON MEDICAL PROCEDURES ===
+
+ELECTROCARDIOGRAM (ECG/EKG) Interpretation — Basics:
+Rate:
+- Normal: 60-100 bpm
+- Calculate: 300 ÷ number of large squares between R waves
+
+Rhythm: Regular vs. irregular
+
+P waves: Before each QRS? Normal sinus rhythm if present
+
+Intervals:
+- PR interval: Normal 120-200 ms (3-5 small squares); prolonged in heart block
+- QRS duration: Normal < 120 ms (< 3 small squares); widened in bundle branch blocks
+- QT interval: Normal < 440 ms (corrected for rate); prolonged in electrolyte abnormalities, medications
+
+ST changes:
+- ST elevation: Possible STEMI, pericarditis (diffuse saddle-shaped elevation), early repolarization
+- ST depression: Ischemia, posterior MI, digoxin effect
+- Rule: >1mm elevation in ≥2 contiguous leads
+
+T wave changes:
+- Tall peaked T waves: Hyperkalemia (tent-shaped)
+- T wave inversions: Ischemia, right/left heart strain, PE
+
+ECG Patterns:
+- STEMI: ST elevation in territory (anterior = V1-V4; inferior = II, III, aVF; lateral = I, aVL, V5-V6)
+- LBBB: Broad QRS with notched R in I, V5-V6; new LBBB in chest pain = treat as STEMI equivalent
+- Atrial fibrillation: Irregularly irregular rhythm, no distinct P waves
+- Atrial flutter: Sawtooth flutter waves at 300/min; typically 2:1 block (150 ventricular rate)
+- Ventricular tachycardia: Wide complex tachycardia, regular; life-threatening
+
+---
+
+PAIN ASSESSMENT:
+PQRST Method:
+- P — Provokes/Palliates: What makes it better or worse?
+- Q — Quality: Sharp, dull, aching, burning, pressure, stabbing?
+- R — Radiation: Does it spread anywhere?
+- S — Severity: Rate 0-10 on pain scale
+- T — Time: When did it start? Constant vs. intermittent? Getting better or worse?
+
+Pain Scales:
+- Numeric Rating Scale (NRS): 0 (no pain) to 10 (worst imaginable pain)
+- Visual Analog Scale (VAS): 100mm line
+- Wong-Baker FACES: For children or communication-limited patients
+- FLACC (Face, Legs, Activity, Cry, Consolability): For infants
+
+=== CLINICAL PHARMACOLOGY PRINCIPLES ===
+
+Pharmacokinetics (ADME):
+Absorption:
+- Bioavailability: Fraction of drug reaching systemic circulation
+- Affected by: Route of administration, first-pass effect, food, pH
+- IV = 100% bioavailability; oral bioavailability varies
+
+Distribution:
+- Volume of distribution (Vd): Apparent volume in which drug distributes
+- Large Vd: Drug distributes to tissues (lipophilic drugs)
+- Small Vd: Drug stays in bloodstream (hydrophilic drugs)
+- Plasma protein binding: Bound drug is inactive; only free drug is active
+
+Metabolism:
+- Primary site: Liver (CYP450 enzymes)
+- First-pass effect: Oral drugs metabolized before reaching systemic circulation
+- CYP3A4: Most important; metabolizes ~50% of drugs; inhibited by grapefruit
+- Prodrugs: Require metabolism to active form (e.g., codeine → morphine via CYP2D6)
+
+Elimination:
+- Half-life (t½): Time for drug concentration to decrease by 50%
+- Renal clearance: Most drugs excreted by kidneys; adjust doses in renal impairment
+- Steady state: Reached after 4-5 half-lives
+- Creatinine clearance (CrCl): Cockcroft-Gault formula used to estimate GFR for drug dosing
+
+Pharmacodynamics:
+- Agonist: Binds receptor and activates it (full agonist vs. partial agonist)
+- Antagonist: Binds receptor without activating; blocks agonist
+- Competitive antagonism: Reversible; increasing agonist concentration overcomes block
+- Therapeutic index (TI) = TD50/ED50; narrow TI drugs require careful monitoring
+
+Dose-Response Relationship:
+- EC50: Concentration producing 50% of maximal effect
+- Loading dose: Rapidly achieves therapeutic levels = (Vd × desired concentration) / bioavailability
+- Maintenance dose: Sustains steady state = (clearance × desired concentration) / bioavailability
+- Therapeutic drug monitoring (TDM): Required for drugs with narrow therapeutic windows (digoxin, warfarin, lithium, aminoglycosides, vancomycin, phenytoin, cyclosporine)
+
+=== NUTRITION AND DIETARY GUIDELINES ===
+
+Macronutrients:
+- Carbohydrates: 45-65% of total calories; complex carbs preferred; fiber 25-38g/day
+- Proteins: 10-35% of total calories; 0.8g/kg body weight (minimum); increased needs in illness/pregnancy
+- Fats: 20-35% of total calories; saturated fat < 10%; trans fat minimal; include omega-3 fatty acids
+
+Micronutrients of Clinical Significance:
+- Vitamin D: RDA 600-800 IU; deficiency common; needed for calcium absorption and immune function
+- Calcium: 1,000-1,200 mg/day; essential for bone health
+- Iron: Men 8mg/day; premenopausal women 18mg/day; deficiency = most common nutritional deficiency
+- Folate: 400 mcg/day; 600 mcg during pregnancy; prevents neural tube defects
+- Vitamin B12: 2.4 mcg/day; deficiency common in vegans and elderly; absorbed via intrinsic factor
+- Potassium: 3,400-4,700 mg/day; important for blood pressure
+- Sodium: < 2,300 mg/day; reduced intake lowers blood pressure
+
+DASH Diet (Dietary Approaches to Stop Hypertension):
+- Rich in fruits, vegetables, whole grains, lean proteins, low-fat dairy
+- Limits: Red meat, sweets, sugary beverages, sodium
+- Shown to reduce systolic BP by 8-14 mmHg
+- Also beneficial for cholesterol and diabetes management
+
+Mediterranean Diet:
+- High in: Olive oil, legumes, whole grains, fruits, vegetables, fish
+- Moderate: Poultry, eggs, dairy, red wine
+- Low: Red meat, processed foods
+- Associated with reduced cardiovascular disease, type 2 diabetes, cognitive decline
+
+=== MEDICAL EMERGENCIES — QUICK REFERENCE ===
+
+ANAPHYLAXIS:
+Triggers: Medications (especially penicillin, NSAIDs, contrast), foods (nuts, shellfish, eggs), insect stings, latex
+Signs: Urticaria, angioedema, bronchospasm, hypotension, nausea/vomiting
+Treatment:
+1. IMMEDIATE: Epinephrine 0.3-0.5mg IM (1:1000) into outer thigh (auto-injector)
+2. Call emergency services
+3. Lay patient flat with legs elevated (if no respiratory distress)
+4. IV access, IV fluids for hypotension
+5. Second epinephrine dose if needed after 5-15 minutes
+6. Diphenhydramine (antihistamine), ranitidine
+7. Corticosteroids (methylprednisolone) — slow onset, but prevent biphasic reaction
+8. Bronchodilators for bronchospasm
+9. Observe for minimum 4-6 hours (biphasic reactions can occur)
+
+HYPOGLYCEMIA:
+Definition: Blood glucose < 70 mg/dL
+Symptoms: Shakiness, sweating, palpitations, anxiety (adrenergic); confusion, difficulty speaking, seizure (neuroglycopenic)
+Rule of 15:
+- If conscious and able to swallow: 15g fast-acting carbs (4 glucose tablets, 4oz juice, regular soda)
+- Recheck glucose in 15 minutes
+- Repeat if still < 70 mg/dL
+- For severe/unconscious: Glucagon 1mg IM/SC, or dextrose 25g IV (50mL of D50W)
+
+HYPERTENSIVE EMERGENCY:
+Definition: Severe hypertension (>180/120) with target organ damage (encephalopathy, aortic dissection, acute MI, acute pulmonary edema, acute renal failure)
+Treatment: IV antihypertensives; reduce MAP by no more than 25% in first hour, then gradual reduction over 24-48 hours
+Agents: Labetalol IV, nicardipine IV, nitroprusside IV, hydralazine IV
+
+SEIZURES:
+Immediate management:
+1. Protect from injury, lateral positioning
+2. Do NOT restrain; do NOT put anything in mouth
+3. Note time of onset
+If seizure > 5 minutes (status epilepticus):
+4. IV/IM benzodiazepine: Lorazepam (preferred) 4mg IV or diazepam 10mg IV
+5. If refractory: Levetiracetam, valproate, phenytoin/fosphenytoin IV
+6. Intubation and anesthetic coma for super-refractory status epilepticus
+
+=== IMPORTANT DISCLAIMER ===
+All clinical information in this document is for educational purposes only and represents general medical knowledge.
+Individual patient care decisions must be made by qualified healthcare professionals based on complete clinical assessment.
+Medical knowledge evolves rapidly; always consult current clinical guidelines and institutional protocols.
+In any medical emergency, immediately call local emergency services (911 in USA).

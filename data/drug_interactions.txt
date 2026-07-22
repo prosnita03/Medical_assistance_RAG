@@ -1,0 +1,254 @@
+# Drug Interactions Reference Guide
+# Source: General Pharmacology Reference (Educational Use Only)
+# Disclaimer: Always consult a pharmacist or physician before taking any medications.
+# This information is for educational purposes only.
+
+=== CRITICAL DRUG INTERACTIONS ===
+
+WARFARIN (Blood Thinner) Interactions:
+WARNING: Warfarin has a narrow therapeutic index. Many drugs and foods can increase bleeding risk or reduce effectiveness.
+
+Drugs that INCREASE bleeding risk (increase INR):
+- Aspirin and NSAIDs (ibuprofen, naproxen, diclofenac) — significantly increase bleeding risk
+- Fluconazole, metronidazole, ciprofloxacin, clarithromycin — inhibit warfarin metabolism
+- Amiodarone — potent inhibitor; may increase INR by 30-50%
+- Statins (especially fluvastatin, lovastatin) — modest INR increases
+- SSRIs (fluoxetine, sertraline) — inhibit platelet function, increase bleeding risk
+- Acetaminophen (paracetamol) — can increase INR at doses >2g/day; safer than NSAIDs but still requires monitoring
+
+Drugs that DECREASE warfarin effect (decrease INR):
+- Rifampin — powerful inducer, can reduce warfarin effect by 50%+
+- Carbamazepine, phenytoin, phenobarbital — enzyme inducers
+- St. John's Wort — herbal supplement, significant interaction
+- Griseofulvin, nafcillin, cholestyramine
+
+Food interactions:
+- Vitamin K-rich foods (spinach, kale, broccoli, Brussels sprouts) — decrease warfarin effect
+- Cranberry juice — increases warfarin effect
+- Grapefruit — modest interaction
+
+Monitoring: Frequent INR checks whenever medications are added, changed, or stopped
+
+---
+
+STATINS (Cholesterol Medications) Interactions:
+Common statins: atorvastatin, simvastatin, rosuvastatin, pravastatin, lovastatin
+
+Interactions increasing risk of myopathy/rhabdomyolysis:
+- Fibrates (gemfibrozil especially) — avoid combination; fenofibrate safer
+- Niacin at high doses — increased myopathy risk
+- Cyclosporine — greatly increases statin levels
+- Azole antifungals (itraconazole, ketoconazole) — inhibit CYP3A4
+- HIV protease inhibitors — significantly increase statin levels
+- Macrolide antibiotics (erythromycin, clarithromycin) — CYP3A4 inhibitors
+- Amiodarone — increases simvastatin levels; limit simvastatin dose to 20mg
+
+Grapefruit interactions:
+- Grapefruit and grapefruit juice — inhibit CYP3A4 metabolism of simvastatin, atorvastatin, lovastatin
+- Rosuvastatin and pravastatin NOT significantly affected by grapefruit
+
+Simvastatin dose limits with interacting drugs:
+- With amiodarone: max 20mg/day
+- With amlodipine or ranolazine: max 20mg/day
+- With verapamil or diltiazem: max 10mg/day
+- Avoid simvastatin with gemfibrozil, cyclosporine, danazol
+
+---
+
+METFORMIN Interactions:
+- Iodinated contrast media — hold metformin before/after procedures with IV contrast (risk of lactic acidosis); typically hold 48 hours after
+- Alcohol — increased risk of lactic acidosis; avoid excessive alcohol
+- Cimetidine — increases metformin levels by reducing renal elimination
+- Topiramate, dolutegravir — may increase metformin levels
+- Carbonic anhydrase inhibitors (topiramate, acetazolamide) — increased lactic acidosis risk
+
+Contraindications (hold metformin):
+- eGFR < 30 mL/min — contraindicated; reduce dose for eGFR 30-45
+- Active/progressive hepatic disease
+- IV contrast administration
+- Surgery requiring anesthesia (temporarily hold)
+
+---
+
+ACE INHIBITORS and ARBs Interactions:
+Common ACE inhibitors: lisinopril, enalapril, ramipril, perindopril
+Common ARBs: losartan, valsartan, irbesartan, candesartan
+
+Key interactions:
+- Potassium supplements / potassium-sparing diuretics (spironolactone, amiloride) — risk of hyperkalemia; requires monitoring
+- NSAIDs — reduce antihypertensive effect and increase risk of acute kidney injury; avoid combination
+- Lithium — ACE inhibitors increase lithium levels, risk of toxicity
+- Aliskiren (direct renin inhibitor) — avoid dual RAAS blockade; increased risk of hypotension, hyperkalemia, renal impairment
+- ACE inhibitor + ARB combination — generally avoided; dual RAAS blockade not recommended
+- Trimethoprim — acts like potassium-sparing diuretic, hyperkalemia risk
+
+Side effects to monitor:
+- ACE inhibitors: Dry cough (10-20% of patients), angioedema (rare but serious)
+- ARBs: Generally better tolerated; lower cough incidence
+
+---
+
+BETA-BLOCKERS Interactions:
+Common beta-blockers: metoprolol, atenolol, carvedilol, bisoprolol, propranolol
+
+Key interactions:
+- Verapamil and diltiazem (non-dihydropyridine calcium channel blockers) — additive negative chronotropic and dromotropic effects; risk of bradycardia and heart block; avoid IV combination
+- Clonidine — abrupt clonidine withdrawal while on beta-blocker → severe hypertension; taper clonidine first
+- Insulin and antidiabetic drugs — beta-blockers mask hypoglycemia symptoms (except sweating); may prolong hypoglycemia
+- NSAIDs — reduce antihypertensive effect
+- Digoxin — additive AV node suppression; risk of bradycardia and heart block
+- Antidepressants (TCAs, MAOIs) — risk of severe hypertension
+
+Important: Never abruptly stop beta-blockers — rebound hypertension and angina risk; taper gradually
+
+---
+
+ANTIBIOTICS — Key Interactions:
+
+FLUOROQUINOLONES (ciprofloxacin, levofloxacin, moxifloxacin):
+- Antacids, calcium, magnesium, aluminum, iron, zinc — reduce fluoroquinolone absorption; take fluoroquinolone 2 hours before or 4-6 hours after
+- Warfarin — increase anticoagulant effect; monitor INR closely
+- QT-prolonging drugs — additive QT prolongation risk; avoid with antiarrhythmics, antipsychotics
+- NSAIDs — increased CNS side effects, seizure risk
+- Theophylline — ciprofloxacin increases theophylline levels; reduce dose and monitor
+
+MACROLIDES (erythromycin, clarithromycin, azithromycin):
+- QT prolongation — significant risk with other QT-prolonging drugs; erythromycin highest risk
+- Statins — CYP3A4 inhibition; increased myopathy risk (avoid with simvastatin)
+- Warfarin — increase INR; monitor closely
+- Digoxin — clarithromycin increases digoxin levels; monitor for toxicity
+- Colchicine — clarithromycin greatly increases colchicine levels; serious toxicity risk
+
+TETRACYCLINES (doxycycline, tetracycline):
+- Divalent cations (calcium, magnesium, aluminum, iron, zinc) — reduce absorption; take 1-2 hours before or after
+- Dairy products — reduce tetracycline (not doxycycline) absorption significantly
+- Warfarin — increase anticoagulant effect
+- Oral contraceptives — theoretical interaction; use backup contraception (low evidence but common practice)
+- Retinoids (isotretinoin) — avoid combination; additive risk of intracranial hypertension (pseudotumor cerebri)
+
+TRIMETHOPRIM-SULFAMETHOXAZOLE (TMP-SMX / Bactrim):
+- Warfarin — significant increase in INR; reduce warfarin dose by 25-50%
+- ACE inhibitors/ARBs/potassium-sparing diuretics — hyperkalemia risk
+- Methotrexate — increases methotrexate toxicity
+- Phenytoin — inhibits phenytoin metabolism; monitor levels
+
+---
+
+PROTON PUMP INHIBITORS (PPIs) Interactions:
+Common PPIs: omeprazole, pantoprazole, lansoprazole, esomeprazole, rabeprazole
+
+- Clopidogrel — omeprazole and esomeprazole reduce clopidogrel antiplatelet effect (CYP2C19 inhibition); use pantoprazole or rabeprazole if PPI needed
+- Methotrexate — PPIs reduce renal clearance; risk of methotrexate toxicity
+- HIV antiretrovirals (atazanavir, rilpivirine) — PPIs reduce absorption; avoid combination
+- Iron and calcium — PPIs reduce absorption (acid-dependent)
+- Vitamin B12 — long-term PPI use can reduce B12 absorption
+- Azole antifungals (ketoconazole, itraconazole) — reduced absorption; separate doses or use different antifungal
+
+Long-term PPI risks:
+- Hypomagnesemia (> 1 year use)
+- Increased risk of C. difficile infection
+- Possible increased risk of bone fractures with high-dose long-term use
+
+---
+
+SSRI/SNRI ANTIDEPRESSANTS Interactions:
+Common SSRIs: fluoxetine, sertraline, escitalopram, paroxetine, citalopram
+Common SNRIs: venlafaxine, duloxetine, desvenlafaxine
+
+SEROTONIN SYNDROME — Most critical interaction:
+Risk with combinations of:
+- MAO inhibitors (phenelzine, tranylcypromine, selegiline) — CONTRAINDICATED; wait 14 days between MAOI and SSRI
+- Linezolid (antibiotic with MAOI activity) — contraindicated with SSRIs
+- Tramadol, fentanyl, meperidine — increased serotonin syndrome risk
+- Triptans — theoretical serotonin syndrome risk; generally acceptable but monitor
+- St. John's Wort — serotonin syndrome risk
+- Lithium — additive serotonergic effects
+
+Serotonin Syndrome Signs: Agitation, confusion, rapid heart rate, high blood pressure, dilated pupils, muscle twitching, loss of coordination, high body temperature, diarrhea
+
+QT Prolongation:
+- Citalopram and escitalopram — dose-dependent QT prolongation; avoid high doses and QT-prolonging drugs
+
+Bleeding risk:
+- NSAIDs + SSRIs — increased upper GI bleeding risk (inhibit platelet aggregation)
+- Warfarin + SSRIs — increased bleeding risk
+
+CYP450 interactions (fluoxetine and paroxetine are potent CYP2D6 inhibitors):
+- Tramadol — reduced analgesic effect and increased seizure risk
+- Codeine — reduced conversion to morphine; reduced analgesic effect
+- Tamoxifen — paroxetine/fluoxetine reduce tamoxifen effectiveness; avoid combination
+- TCAs — increased TCA levels
+
+---
+
+OPIOID ANALGESICS Interactions:
+Common opioids: oxycodone, hydrocodone, codeine, tramadol, fentanyl, morphine, methadone
+
+CNS depression — additive/synergistic effects:
+- Benzodiazepines — BLACK BOX WARNING: additive respiratory depression, increased risk of overdose death
+- Alcohol — increased CNS and respiratory depression
+- Gabapentin/pregabalin — increased respiratory depression risk
+- Muscle relaxants — additive CNS depression
+- Antihistamines, antipsychotics, TCAs — additive sedation
+
+Methadone-specific interactions:
+- QT prolongation — significant concern; many drugs prolong QT interval
+- Rifampin — dramatically reduces methadone levels; withdrawal risk
+- HIV antiretrovirals — many complex interactions
+
+Tramadol-specific:
+- Serotonin syndrome risk (see SSRIs above)
+- Seizure threshold lowering — avoid with other drugs that lower seizure threshold
+- MAOIs — contraindicated
+
+---
+
+ORAL CONTRACEPTIVES Interactions:
+Drugs that REDUCE contraceptive effectiveness:
+- Enzyme-inducing antiepileptics: rifampin, carbamazepine, phenytoin, oxcarbazepine, topiramate (>200mg/day)
+- Rifampin (and rifabutin to a lesser extent)
+- St. John's Wort
+- Griseofulvin (antifungal)
+- Action: Use additional contraception (condoms) during use and for 28 days after stopping enzyme inducers
+
+Drugs AFFECTED by oral contraceptives:
+- Warfarin — may decrease or increase anticoagulant effect; monitor INR
+- Lamotrigine — oral contraceptives reduce lamotrigine levels significantly (50%); seizure risk; adjust dose
+- Cyclosporine — oral contraceptives may increase cyclosporine levels
+
+---
+
+DIGOXIN Interactions:
+- P-glycoprotein inhibitors (amiodarone, quinidine, verapamil, clarithromycin, itraconazole, spironolactone) — increase digoxin levels; toxicity risk
+- Diuretics (loop and thiazide) — hypokalemia and hypomagnesemia increase digoxin toxicity risk
+- NSAIDs — reduce renal clearance; increase digoxin levels
+- Antacids, cholestyramine, kaolin-pectin — reduce digoxin absorption
+
+Digoxin Toxicity Signs:
+- GI: Nausea, vomiting, anorexia, abdominal pain
+- Cardiac: Bradycardia, heart block, various arrhythmias
+- Visual: Blurred vision, yellow-green halos, photophobia
+- Neurological: Confusion, fatigue, weakness, delirium
+
+=== MEDICATION SAFETY PRINCIPLES ===
+
+HIGH-ALERT MEDICATIONS (Require special caution):
+- Anticoagulants: Warfarin, heparin, DOACs (apixaban, rivaroxaban, dabigatran)
+- Insulin: Risk of hypoglycemia; double-check doses
+- Opioids: Respiratory depression risk; start low, go slow
+- Concentrated electrolytes: IV potassium chloride — never give undiluted IV push
+- Chemotherapy agents: Narrow therapeutic index
+- Antiepileptics: Narrow therapeutic range; monitor levels
+
+BEERS CRITERIA — Medications to Avoid in Elderly (≥65 years):
+- Benzodiazepines — increased fall/fracture risk, cognitive impairment
+- First-generation antihistamines (diphenhydramine/Benadryl) — anticholinergic effects
+- NSAIDs — GI bleeding, fluid retention, renal impairment
+- Antipsychotics for dementia-related behavioral issues — increased mortality risk
+- Tricyclic antidepressants — anticholinergic, orthostatic hypotension
+- Muscle relaxants (cyclobenzaprine) — excessive sedation, anticholinergic effects
+
+=== IMPORTANT DISCLAIMER ===
+Drug interaction information is complex and constantly evolving. This reference is for educational purposes only.
+Always consult a licensed pharmacist or physician before starting, stopping, or changing any medication.
+Individual patient factors (age, kidney function, liver function, other diseases) greatly affect drug interaction severity.

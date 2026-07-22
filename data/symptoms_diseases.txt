@@ -1,0 +1,428 @@
+# Medical Knowledge Base — Symptoms and Diseases
+# Source: General Medical Reference (Educational Use Only)
+# Disclaimer: This information is for educational purposes only.
+# Always consult a qualified healthcare professional for medical advice.
+
+=== CARDIOVASCULAR DISEASES ===
+
+HYPERTENSION (High Blood Pressure)
+Definition: A chronic condition where blood pressure in the arteries is persistently elevated (≥130/80 mmHg per ACC/AHA 2017 guidelines).
+
+Symptoms:
+- Most people have no symptoms (often called the "silent killer")
+- Severe hypertension may cause: severe headache, fatigue, confusion, vision problems
+- Chest pain, difficulty breathing, irregular heartbeat
+- Blood in urine, pounding in chest/neck/ears
+
+Risk Factors:
+- Family history, age (over 55 for men, 65 for women), race (higher in Black adults)
+- Being overweight or obese
+- Physical inactivity, tobacco use, too much salt, low potassium
+- Drinking too much alcohol, stress, certain chronic conditions
+
+Diagnosis: Blood pressure measurement (two or more readings on separate occasions)
+
+Treatment:
+- Lifestyle changes: DASH diet, regular exercise, weight loss, limiting alcohol and sodium
+- Medications: ACE inhibitors (lisinopril), ARBs (losartan), calcium channel blockers (amlodipine), thiazide diuretics
+
+Complications: Heart attack, stroke, heart failure, kidney disease, vision loss
+
+---
+
+CORONARY ARTERY DISEASE (CAD)
+Definition: Narrowing or blockage of coronary arteries due to plaque buildup (atherosclerosis).
+
+Symptoms:
+- Chest pain (angina): pressure, squeezing, or tightness, often triggered by exertion
+- Shortness of breath
+- Heart attack symptoms: crushing chest pain, pain radiating to arm/jaw/neck, sweating, nausea
+- Fatigue, weakness
+
+Risk Factors: Hypertension, high cholesterol, diabetes, smoking, obesity, family history, age
+
+Diagnosis: EKG, stress test, coronary angiography, CT scan
+
+Treatment:
+- Medications: Aspirin, statins, beta-blockers, nitrates
+- Procedures: Angioplasty and stent placement, coronary artery bypass grafting (CABG)
+- Lifestyle: Quit smoking, heart-healthy diet, exercise
+
+---
+
+HEART FAILURE
+Definition: The heart cannot pump enough blood to meet the body's needs.
+
+Symptoms:
+- Shortness of breath during activity or when lying down
+- Persistent cough or wheezing with white or pink blood-tinged phlegm
+- Swelling (edema) in legs, ankles, feet
+- Rapid or irregular heartbeat
+- Fatigue and weakness
+- Sudden weight gain from fluid retention
+- Lack of appetite and nausea
+
+Types: Systolic (reduced ejection fraction), Diastolic (preserved ejection fraction), Right-sided, Left-sided
+
+Treatment:
+- Medications: ACE inhibitors, ARBs, beta-blockers, diuretics (furosemide), aldosterone antagonists
+- Devices: Pacemakers, ICDs, cardiac resynchronization therapy
+- Surgery: Heart transplant in severe cases
+
+=== DIABETES MELLITUS ===
+
+TYPE 2 DIABETES
+Definition: A metabolic disorder characterized by high blood sugar, insulin resistance, and relative insulin deficiency.
+
+Symptoms:
+- Increased thirst (polydipsia) and frequent urination (polyuria)
+- Increased hunger (polyphagia)
+- Unintended weight loss
+- Fatigue and lack of energy
+- Blurred vision
+- Slow-healing sores or frequent infections
+- Darkened skin in body creases (acanthosis nigricans)
+- Tingling, numbness, or pain in hands or feet
+
+Diagnostic Criteria:
+- Fasting blood glucose ≥ 126 mg/dL (7.0 mmol/L)
+- 2-hour glucose ≥ 200 mg/dL during OGTT
+- HbA1c ≥ 6.5%
+- Random glucose ≥ 200 mg/dL with symptoms
+
+Risk Factors:
+- Overweight or obese (BMI ≥ 25)
+- Prediabetes, family history, age ≥ 45
+- Physical inactivity, gestational diabetes history
+- Polycystic ovarian syndrome (PCOS)
+
+Treatment:
+- Lifestyle: Weight loss (5-10% body weight reduces risk significantly), physical activity (150 min/week), healthy diet
+- First-line medication: Metformin
+- Additional medications: SGLT2 inhibitors, GLP-1 receptor agonists, DPP-4 inhibitors, sulfonylureas, insulin
+- Monitoring: Regular HbA1c testing (target <7%), blood pressure, lipids, kidney function
+
+Complications:
+- Diabetic neuropathy (nerve damage)
+- Diabetic nephropathy (kidney disease)
+- Diabetic retinopathy (eye disease)
+- Cardiovascular disease
+- Diabetic foot complications
+
+TYPE 1 DIABETES
+Definition: Autoimmune destruction of pancreatic beta cells leading to absolute insulin deficiency.
+
+Symptoms: Similar to Type 2 but often more sudden onset; may present with diabetic ketoacidosis (DKA)
+
+DKA Symptoms: Excessive thirst, frequent urination, nausea/vomiting, abdominal pain, fruity breath, confusion
+
+Treatment: Lifelong insulin therapy (basal-bolus regimen), blood glucose monitoring, carbohydrate counting
+
+=== RESPIRATORY CONDITIONS ===
+
+ASTHMA
+Definition: Chronic inflammatory disease of the airways causing recurrent episodes of wheezing, breathlessness, chest tightness, and coughing.
+
+Symptoms:
+- Wheezing (whistling sound when breathing)
+- Shortness of breath
+- Chest tightness or pain
+- Cough, especially at night or early morning
+- Symptoms triggered by: exercise, allergens, cold air, stress, respiratory infections
+
+Severity Classification: Intermittent, Mild Persistent, Moderate Persistent, Severe Persistent
+
+Treatment:
+- Short-acting bronchodilators (SABAs): Albuterol (salbutamol) — for quick relief
+- Inhaled corticosteroids (ICS): Fluticasone, budesonide — controller therapy
+- Long-acting bronchodilators (LABAs): Salmeterol — add-on therapy
+- Leukotriene modifiers: Montelukast
+- Biologic therapies for severe asthma: Omalizumab, mepolizumab
+
+Triggers to Avoid: Allergens (dust mites, pet dander, pollen), tobacco smoke, air pollution, strong odors
+
+---
+
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)
+Definition: Progressive lung disease including emphysema and chronic bronchitis, characterized by airflow limitation.
+
+Symptoms:
+- Chronic cough with mucus production (chronic bronchitis)
+- Shortness of breath, especially during activities
+- Wheezing, chest tightness
+- Frequent respiratory infections
+- Fatigue, unintended weight loss (in severe cases)
+- Cyanosis (bluish discoloration of lips or fingernails)
+
+Causes: Cigarette smoking (most common), occupational dust/chemicals, air pollution, alpha-1 antitrypsin deficiency
+
+Diagnosis: Spirometry (FEV1/FVC ratio < 0.7), chest X-ray, CT scan
+
+GOLD Staging:
+- Stage I (Mild): FEV1 ≥ 80% predicted
+- Stage II (Moderate): 50% ≤ FEV1 < 80%
+- Stage III (Severe): 30% ≤ FEV1 < 50%
+- Stage IV (Very Severe): FEV1 < 30%
+
+Treatment:
+- Smoking cessation (most important intervention)
+- Bronchodilators: SABAs, SAMAs (ipratropium), LABAs, LAMAs (tiotropium)
+- Inhaled corticosteroids for frequent exacerbations
+- Pulmonary rehabilitation
+- Supplemental oxygen if SpO2 < 88%
+- Vaccinations: Influenza, pneumococcal
+
+=== NEUROLOGICAL CONDITIONS ===
+
+MIGRAINE
+Definition: A recurrent headache disorder manifesting in attacks lasting 4-72 hours, typically unilateral, pulsating, moderate to severe intensity.
+
+Phases: Prodrome, Aura (in ~25%), Headache, Postdrome
+
+Symptoms:
+- Severe, throbbing or pulsating headache (often one-sided)
+- Nausea and vomiting
+- Extreme sensitivity to light (photophobia) and sound (phonophobia)
+- Aura: visual disturbances (flashes of light, blind spots, zigzag patterns), tingling sensations, speech difficulty
+
+Triggers: Stress, hormonal changes, certain foods (caffeine, alcohol, aged cheeses, processed meats), sleep changes, weather changes, strong smells
+
+Treatment:
+- Acute/Abortive: NSAIDs (ibuprofen, naproxen), triptans (sumatriptan, rizatriptan), ergotamines, antiemetics
+- Preventive: Beta-blockers (propranolol), tricyclic antidepressants (amitriptyline), valproate, topiramate, CGRP antagonists, botulinum toxin injections
+
+Lifestyle: Regular sleep, staying hydrated, exercise, stress management, headache diary
+
+---
+
+STROKE
+Definition: Interruption of blood supply to part of the brain, causing cell death.
+
+Types:
+- Ischemic (87%): Blood clot blocks artery
+- Hemorrhagic (13%): Blood vessel ruptures
+
+FAST Warning Signs:
+- Face drooping
+- Arm weakness
+- Speech difficulty
+- Time to call emergency services
+
+Additional Symptoms:
+- Sudden numbness or weakness (especially one side)
+- Sudden confusion or trouble understanding
+- Sudden trouble seeing in one or both eyes
+- Sudden severe headache with no known cause
+- Sudden trouble walking, dizziness, loss of balance
+
+Treatment:
+- Ischemic: IV tPA (alteplase) within 4.5 hours, mechanical thrombectomy within 24 hours
+- Hemorrhagic: Blood pressure control, surgical intervention, reversal of anticoagulation
+- Secondary prevention: Antiplatelet therapy (aspirin, clopidogrel), anticoagulation for AFib, statins, hypertension control
+
+=== GASTROINTESTINAL CONDITIONS ===
+
+GASTROESOPHAGEAL REFLUX DISEASE (GERD)
+Definition: Chronic condition where stomach acid repeatedly flows back into the esophagus.
+
+Symptoms:
+- Heartburn (burning sensation in chest)
+- Regurgitation of food or sour liquid
+- Difficulty swallowing (dysphagia)
+- Chest pain, chronic cough, laryngitis
+- Feeling of a lump in the throat
+
+Diagnosis: Clinical history, endoscopy, pH monitoring, barium swallow
+
+Treatment:
+- Lifestyle: Avoid trigger foods (fatty/spicy foods, caffeine, alcohol, chocolate), eat smaller meals, don't lie down after eating, elevate head of bed, lose weight if overweight
+- Medications: Antacids, H2 blockers (famotidine), proton pump inhibitors (omeprazole, pantoprazole)
+- Surgery: Fundoplication for refractory cases
+
+Complications: Barrett's esophagus (precancerous changes), esophageal stricture, esophageal cancer
+
+---
+
+IRRITABLE BOWEL SYNDROME (IBS)
+Definition: Functional gastrointestinal disorder characterized by abdominal pain associated with changes in bowel habits.
+
+Subtypes: IBS-C (constipation predominant), IBS-D (diarrhea predominant), IBS-M (mixed)
+
+Symptoms:
+- Recurring abdominal pain, at least 1 day/week in the past 3 months
+- Related to defecation or associated with change in frequency or form of stool
+- Bloating and gas
+- Diarrhea, constipation, or alternating between both
+
+Triggers: Stress, certain foods (FODMAPs - fermentable oligosaccharides, disaccharides, monosaccharides, polyols), hormonal changes
+
+Treatment:
+- Low FODMAP diet
+- Fiber supplementation (for IBS-C)
+- Antidiarrheals (loperamide) for IBS-D
+- Antispasmodics (dicyclomine) for cramping
+- Antidepressants for pain modulation
+- Cognitive behavioral therapy, stress management
+
+=== MUSCULOSKELETAL CONDITIONS ===
+
+OSTEOARTHRITIS
+Definition: Degenerative joint disease characterized by breakdown of cartilage and underlying bone.
+
+Commonly Affected Joints: Knees, hips, hands, spine, feet
+
+Symptoms:
+- Joint pain that worsens with activity and improves with rest
+- Stiffness, especially in the morning or after sitting (usually < 30 minutes)
+- Joint swelling and tenderness
+- Grating sensation or crunching sounds (crepitus)
+- Loss of flexibility and range of motion
+- Bone spurs (osteophytes)
+
+Risk Factors: Age, female sex, obesity, joint injuries, repetitive stress, genetics, bone deformities
+
+Treatment:
+- Non-pharmacological: Weight loss, physical therapy, exercise (low-impact), assistive devices
+- Medications: Acetaminophen, NSAIDs (topical or oral), duloxetine, corticosteroid injections, hyaluronic acid injections
+- Surgery: Joint replacement (arthroplasty) for severe cases
+
+---
+
+RHEUMATOID ARTHRITIS (RA)
+Definition: Chronic autoimmune inflammatory disease primarily affecting joints.
+
+Symptoms:
+- Tender, warm, swollen joints — typically symmetric (both sides of body)
+- Joint stiffness, especially in the morning or after inactivity (> 1 hour)
+- Fatigue, fever, loss of appetite
+- Rheumatoid nodules (firm bumps under skin)
+- Joint deformity in advanced disease
+
+Extra-articular Manifestations: Rheumatoid nodules, lung disease, cardiovascular disease, eye inflammation, vasculitis
+
+Diagnosis: RF (rheumatoid factor), anti-CCP antibodies, CRP, ESR, joint X-rays
+
+Treatment:
+- DMARDs (Disease-Modifying Anti-Rheumatic Drugs): Methotrexate (first-line), hydroxychloroquine, sulfasalazine, leflunomide
+- Biologic DMARDs: TNF inhibitors (etanercept, adalimumab), IL-6 inhibitors (tocilizumab)
+- Corticosteroids for short-term flare control
+- NSAIDs for symptom relief
+- Physical therapy, occupational therapy
+
+=== MENTAL HEALTH CONDITIONS ===
+
+DEPRESSION (Major Depressive Disorder)
+Definition: A mood disorder causing persistent feelings of sadness and loss of interest affecting daily functioning.
+
+Symptoms (at least 5 for 2+ weeks, including depressed mood or anhedonia):
+- Depressed mood most of the day, nearly every day
+- Markedly diminished interest or pleasure in activities (anhedonia)
+- Significant weight change or appetite disturbance
+- Insomnia or hypersomnia
+- Psychomotor agitation or retardation
+- Fatigue or loss of energy
+- Feelings of worthlessness or excessive guilt
+- Difficulty thinking, concentrating, or making decisions
+- Recurrent thoughts of death or suicide
+
+Treatment:
+- Psychotherapy: Cognitive Behavioral Therapy (CBT), interpersonal therapy, psychodynamic therapy
+- Antidepressants: SSRIs (fluoxetine, sertraline, escitalopram — first-line), SNRIs (venlafaxine, duloxetine), TCAs, MAOIs
+- Combination: Medication + therapy most effective
+- Electroconvulsive therapy (ECT) for treatment-resistant depression
+- Lifestyle: Exercise, sleep hygiene, social support
+
+---
+
+ANXIETY DISORDERS
+Types: Generalized Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder, Specific Phobias
+
+GAD Symptoms:
+- Excessive anxiety and worry about multiple events or activities (more days than not for 6+ months)
+- Difficulty controlling worry
+- Restlessness or feeling on edge
+- Easily fatigued, difficulty concentrating
+- Irritability, muscle tension, sleep disturbance
+
+Panic Disorder: Recurrent unexpected panic attacks with persistent concern about future attacks or behavioral changes
+
+Treatment:
+- CBT (most effective for anxiety disorders)
+- Medications: SSRIs/SNRIs (first-line), benzodiazepines (short-term), buspirone (GAD)
+- Relaxation techniques, mindfulness, exposure therapy
+
+=== INFECTIOUS DISEASES ===
+
+URINARY TRACT INFECTION (UTI)
+Definition: Infection of any part of the urinary system (kidneys, ureters, bladder, urethra).
+
+Types:
+- Cystitis (bladder infection): Most common
+- Pyelonephritis (kidney infection): More serious
+
+Symptoms of Cystitis:
+- Burning sensation when urinating (dysuria)
+- Frequent urge to urinate (urgency/frequency)
+- Cloudy, dark, bloody, or strong-smelling urine
+- Pelvic pain (in women), rectal pain (in men)
+
+Symptoms of Pyelonephritis (additional):
+- Upper back and flank pain
+- High fever with chills
+- Nausea and vomiting
+
+Risk Factors: Female anatomy, sexual activity, menopause, urinary tract abnormalities, catheter use, weakened immunity
+
+Treatment:
+- Uncomplicated cystitis: 3-5 days of antibiotics (trimethoprim-sulfamethoxazole, nitrofurantoin, fosfomycin)
+- Pyelonephritis: 7-14 days of antibiotics (fluoroquinolones, trimethoprim-sulfamethoxazole, or IV antibiotics if severe)
+- Increase fluid intake
+
+=== ENDOCRINE CONDITIONS ===
+
+HYPOTHYROIDISM
+Definition: Underactive thyroid gland producing insufficient thyroid hormone.
+
+Symptoms:
+- Fatigue and sluggishness
+- Increased sensitivity to cold
+- Constipation
+- Pale, dry skin and hair loss
+- Puffy face, brittle nails
+- Slowed heart rate (bradycardia)
+- Depression, impaired memory
+- Muscle weakness, stiffness, aches
+- Elevated cholesterol, weight gain
+- In women: Heavier than normal or irregular menstrual periods
+
+Causes: Hashimoto's thyroiditis (autoimmune), thyroid surgery, radiation therapy, certain medications (lithium, amiodarone)
+
+Diagnosis: TSH (elevated), Free T4 (low)
+
+Treatment: Levothyroxine (synthetic T4) — dose adjusted to normalize TSH
+
+---
+
+HYPERTHYROIDISM
+Definition: Overactive thyroid gland producing excess thyroid hormone.
+
+Symptoms:
+- Unintentional weight loss despite increased appetite
+- Rapid or irregular heartbeat (tachycardia, palpitations, atrial fibrillation)
+- Nervousness, anxiety, irritability
+- Tremor (especially in hands and fingers)
+- Sweating and heat intolerance
+- Increased frequency of bowel movements
+- Goiter (enlarged thyroid gland)
+- Fatigue and muscle weakness
+- Difficulty sleeping
+- Skin thinning, hair loss
+
+Causes: Graves' disease (autoimmune — most common), thyroid nodules, thyroiditis
+
+Treatment: Antithyroid drugs (methimazole, propylthiouracil), radioactive iodine therapy, thyroidectomy, beta-blockers for symptom control
+
+=== IMPORTANT MEDICAL DISCLAIMER ===
+This information is provided for educational purposes only and does not constitute medical advice. 
+Always consult with a qualified healthcare professional for diagnosis and treatment of any medical condition.
+In case of medical emergency, call your local emergency services immediately.
