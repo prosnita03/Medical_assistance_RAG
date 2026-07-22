@@ -20,9 +20,6 @@ COPY . .
 # Create ChromaDB persist directory
 RUN mkdir -p backend/data/chroma_db
 
-# Pre-ingest sample data
-RUN python scripts/ingest_data.py --data-dir ./data
-
 # Expose port
 EXPOSE 8000
 
