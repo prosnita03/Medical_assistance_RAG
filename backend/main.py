@@ -50,6 +50,24 @@ async def lifespan(app: FastAPI):
     get_rag_service()
 
     count = vs.get_collection_size()
+    if count == 0:
+        logger.info("📂 Knowledge base is empty on startup. Triggering auto-ingestion of default data...")
+        try:
+            from backend.services.document_processor import get_document_processor
+            from pathlib import Path
+            processor = get_document_processor()
+            data_dir = Path("./data")
+            if data_dir.exists():
+                documents = processor.process_directory(data_dir)
+                if documents:
+                    vs.add_documents(documents)
+                    count = vs.get_collection_size()
+                    logger.info(f"✅ Auto-ingested default data — Added {count} chunks.")
+            else:
+                logger.warning(f"⚠️  Default data directory not found at {data_dir.resolve()}")
+        except Exception as e:
+            logger.error(f"❌ Failed to run auto-ingestion: {e}")
+
     logger.info(f"✅ Ready — Knowledge base: {count} chunks | Model: {settings.GEMINI_MODEL}")
     yield
     logger.info("🛑 Shutting down Medical AI Assistant...")
