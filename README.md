@@ -1,5 +1,7 @@
 # Medical AI Assistant with RAG
 
+🌐 **Live Demo**: [https://medical-assistance-rag.onrender.com](https://medical-assistance-rag.onrender.com)
+
 A production-ready **Retrieval-Augmented Generation (RAG)** medical information assistant built with:
 
 - **LangChain** — RAG pipeline orchestration
