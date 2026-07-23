@@ -54,11 +54,20 @@ html { scroll-behavior: smooth; }
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  background-color: var(--color-bg);
+  background-color: #02030a;
+  background-image: url('neural_pathways_bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: var(--text-primary);
   line-height: 1.6;
   min-height: 100vh;
-  overflow-x: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  overflow: hidden;
 }
 
 /* ── Animated background orbs ── */
@@ -100,9 +109,18 @@ body {
 /* ── App Shell ── */
 .app-shell {
   display: flex;
-  height: 100vh;
+  width: 100%;
+  max-width: 1600px;
+  height: calc(100vh - 48px);
+  background: rgba(8, 12, 32, 0.45); /* Extra translucent navy glass */
+  backdrop-filter: blur(25px) saturate(180%);
+  -webkit-backdrop-filter: blur(25px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.08); /* Clean white glass border */
+  border-radius: 24px;
+  overflow: hidden;
   position: relative;
   z-index: 1;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.6);
 }
 
 /* ══════════════════════════════════════
@@ -110,11 +128,11 @@ body {
 ══════════════════════════════════════ */
 .sidebar {
   width: var(--sidebar-w);
-  height: 100vh;
-  background: var(--color-surface);
-  backdrop-filter: var(--glass-blur);
-  -webkit-backdrop-filter: var(--glass-blur);
-  border-right: var(--glass-border);
+  height: 100%;
+  background: rgba(6, 9, 22, 0.35); /* Super transparent sidebar */
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
   display: flex;
   flex-direction: column;
   padding: 24px 16px;
@@ -316,7 +334,7 @@ body {
   min-width: 0;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 100%;
   overflow: hidden;
   position: relative;
 }
@@ -827,21 +845,21 @@ body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  padding: 14px 28px;
-  background: var(--grad-primary);
-  border: none;
-  border-radius: var(--radius-md);
-  color: white;
+  padding: 12px 28px;
+  background: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: var(--radius-xl);
+  color: #050714;
   font-size: 15px;
   font-weight: 600;
   font-family: inherit;
   cursor: pointer;
   transition: all var(--transition);
-  box-shadow: 0 4px 20px rgba(99,102,241,0.35);
+  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.12);
   align-self: flex-start;
 }
-.primary-btn:hover:not(:disabled) { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(99,102,241,0.45); }
-.primary-btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+.primary-btn:hover:not(:disabled) { transform: translateY(-1.5px); background: #f8f9fa; box-shadow: 0 8px 25px rgba(255, 255, 255, 0.22); }
+.primary-btn:disabled { background: rgba(255, 255, 255, 0.15); color: rgba(255, 255, 255, 0.35); border-color: transparent; cursor: not-allowed; transform: none; box-shadow: none; }
 .primary-btn svg { width: 18px; height: 18px; }
 
 .secondary-btn {
@@ -1150,6 +1168,15 @@ body {
    RESPONSIVE
 ══════════════════════════════════════ */
 @media (max-width: 768px) {
+  body {
+    padding: 0;
+    overflow: auto;
+  }
+  .app-shell {
+    height: 100vh;
+    border-radius: 0;
+    border: none;
+  }
   .sidebar {
     position: fixed;
     top: 0;
